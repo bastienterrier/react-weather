@@ -2,6 +2,8 @@
 
 This projets aims to develop a mini weather application that display the min/max weather of the day of a few cities.
 
+https://user-images.githubusercontent.com/25296454/158589338-13d9cf82-aef3-47ef-badf-0d8c80eaa072.mov
+
 ## Scripts
 
 - `npm start`: start application in dev mode
