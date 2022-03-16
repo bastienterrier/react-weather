@@ -1,6 +1,6 @@
 # Weather react app
 
-This projets aims to develop a mini weather application that display the min/max weather of the day of a few cities:
+This project aims at developing a mini weather application that display the min/max weather of the day of a few cities:
 
 - Lille: latitude: 50.6292 / longitude: 3.0573
 - Paris: latitude: 48.8566 / longitude: 2.3522
