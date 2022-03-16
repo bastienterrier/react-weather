@@ -1,6 +1,10 @@
 # Weather react app
 
-This projets aims to develop a mini weather application that display the min/max weather of the day of a few cities.
+This projets aims to develop a mini weather application that display the min/max weather of the day of a few cities:
+
+- Lille: latitude: 50.6292 / longitude: 3.0573
+- Paris: latitude: 48.8566 / longitude: 2.3522
+- Marseille: latitude: 43.296482 / longitude: 5.36978
 
 https://user-images.githubusercontent.com/25296454/158589338-13d9cf82-aef3-47ef-badf-0d8c80eaa072.mov
 
@@ -8,6 +12,19 @@ https://user-images.githubusercontent.com/25296454/158589338-13d9cf82-aef3-47ef-
 
 - `npm start`: start application in dev mode
 - `npm test`: launch tests (`--watch` option can be used)
+
+## Steps
+
+<details>
+  <summary>Click to see the steps</summary>
+  
+  1. List all components you will need
+  2. Create the `Cities` component
+    - props: `cities` + `onChange`
+  3. Create the `Weather` component
+    - props: `min` + `max`
+  4. Call the `weather api` when selecting a `city` to retrieve `min`/`max`
+</details>
 
 ## Weather API
 
